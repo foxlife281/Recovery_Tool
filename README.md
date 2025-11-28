@@ -8,7 +8,7 @@
 
 # Instruções para rodar o projeto no Windows.
 
- * Clona o repo e brota na pasta:
+ * Clona o repo e entra na pasta:
 ```bash
 git clone https://github.com/foxlife281/Recovery_Tool.git && cd Recovery_Tool
 ```
@@ -36,7 +36,7 @@ go_1.bat
 
 # Instruções para rodar o projeto no Linux / MacOS.
 
- * Clona o repo e brota na pasta:
+ * Clona o repo e entra na pasta:
 ```bash
   git clone https://github.com/foxlife281/Recovery_Tool.git && cd Recovery_Tool
 ```
