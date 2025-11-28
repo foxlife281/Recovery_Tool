@@ -25,7 +25,7 @@ go build -o recovery.exe ./main.go
 
  * Executa o que foi compilado:
 ```bash
-Recovery_Tool
+go.bat
 ```
 
 
