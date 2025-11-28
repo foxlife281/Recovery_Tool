@@ -10,7 +10,7 @@
 
  * Clona o repo e brota na pasta:
 ```bash
-git clone https://github.com/foxlife281/Recovery_Tool.git && cd Recovery_Tool-main
+git clone https://github.com/foxlife281/Recovery_Tool.git && cd Recovery_Tool
 ```
  
  * Instala as parada:
@@ -33,7 +33,7 @@ Recovery_Tool
 
  * Clona o repo e brota na pasta:
 ```bash
-  git clone https://github.com/foxlife281/Recovery_Tool.git && cd Recovery_Tool-main
+  git clone https://github.com/foxlife281/Recovery_Tool.git && cd Recovery_Tool
 ```
 
  * Instala as parada:
@@ -49,6 +49,14 @@ go build -o recovery ./main.go
  * Executa o que foi compilado:
 ```bash
 ./recovery
+```
+* Rodar Direto sem compilar:
+```bash
+chmod +x go.sh
+```
+* Agora rode o comando:
+```bash
+./go.sh
 ```
 
 [install-go]: https://go.dev/doc/install
